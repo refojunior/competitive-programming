@@ -1,5 +1,7 @@
 package main
 
+//https://codeforces.com/problemset/problem/50/A
+
 import "fmt"
 
 func main() {
